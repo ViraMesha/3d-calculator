@@ -1,4 +1,4 @@
-# 3d-calculator
+# 3D Calculator
 
 This is a simple web-based calculator built with HTML, CSS, and JavaScript.
 
